@@ -1,0 +1,47 @@
+        
+		{
+  "WBUI2":
+  {
+		"settings": 
+		{
+            "openbutton": 0,
+            "hideicon": false,
+            "hideiconafter": 10,
+            "iconurl": "https://lh3.googleusercontent.com/d/1pORdLOisweft4dXf43cwYXNVC-Zg_Qg6",
+            "disableicontext": true,
+            "iconposition": 3,
+            "icontextcolor": 8,
+            "openonstart": false,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 24
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "<RichColor Color=\"1,0,0,1\">Справка</>",
+                "imageurl": "https://lh3.googleusercontent.com/d/1E22nQVWhR-IJVzA90PD-wpk3czDejjbl",
+                "content": [
+                    {
+                        "title": "Добро пожаловать на ARK PO-RUSSKI!",
+                        "text": "Этот сервер заточен на сюжетное прохождение, посредством сбора заметок первопроходцев.\nЗа сбор заметок вы получаете дополнительные очки энграмм и предметы.\n Чтобы новые очки энграмм применились, вам нужно переродится через смерть, либо телепорт через кровать.\n Также на сервере есть закрытые на пин-код строения, которые содержат качественные вещи и дино, \nесли, конечно, вы отгадаете пин по подсказкам;)\nУдачной игры! \nНажмите F1, чтобы открыть эту справку повторно."
+                    },
+                    {
+                        "title": "Мультипликаторы сервера",
+                        "text": "Сбор х3\nРазведение дино х5\nВсё остальное х1 Основные моды:\n\nОзвучка заметок и бонусная система\nБыстрые криоподы\nСтол жестянщика с поддержкой энграмм разведчиков и инфорсеров"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Магазин",
+                "url": "https://apr.survivalshop.org/"
+            },
+            {
+                "text": "Группа ВК",
+                "url": "https://vk.com/asa_tr_project"
+            }
+        ],
+        "version": 2
+  }
+		}
