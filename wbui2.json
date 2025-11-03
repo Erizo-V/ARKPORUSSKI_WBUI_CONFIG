@@ -7,7 +7,7 @@
             "openbutton": 0,
             "hideicon": false,
             "hideiconafter": 10,
-            "iconurl": "https://lh3.googleusercontent.com/d/1pORdLOisweft4dXf43cwYXNVC-Zg_Qg6",
+            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
             "disableicontext": true,
             "iconposition": 3,
             "icontextcolor": 8,
@@ -19,7 +19,7 @@
             {
                 "layout": 1,
                 "buttontext": "<RichColor Color=\"1,0,0,1\">Справка</>",
-                "imageurl": "https://lh3.googleusercontent.com/d/1E22nQVWhR-IJVzA90PD-wpk3czDejjbl",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Добро пожаловать на ARK PO-RUSSKI!",
@@ -44,4 +44,5 @@
         ],
         "version": 2
   }
+
 		}
