@@ -40,11 +40,16 @@
             {
                 "text": "Сообщество ВК",
                 "url": "https://vk.com/asa_tr_project"
+            },
+            {
+                "text": "Дискорд",
+                "url": "https://discord.gg/pUhpfqPm"
             }
         ],
         "version": 2
     }
 }
+
 
 
 
